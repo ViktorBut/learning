@@ -15,3 +15,5 @@ def discounted(price, discount, max_discount = 50):
 # print(product)
 
 print(discounted(100, 40))
+print(discounted(80, 30))
+print(discounted(60, 20))
